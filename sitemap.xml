@@ -5,14 +5,4 @@
          <lastmod>2024-06-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
-    <url>
-         <loc>https://mydomain.org/mysite/pages/01-cv/</loc>
-         <lastmod>2024-06-03</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://mydomain.org/mysite/pages/02-projects/</loc>
-         <lastmod>2024-06-03</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
 </urlset>
